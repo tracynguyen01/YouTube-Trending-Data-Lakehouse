@@ -1,4 +1,4 @@
-# 📊 YouTube Trending Data Lakehouse
+# 📊 YouTube Trending Video Analysis
 
 ## 🚀 Overview
 
